@@ -1,0 +1,7 @@
+category-encoders==2.6.3
+pyjanitor==0.28.1
+numpy==1.26.4
+pandas==2.2.2
+streamlit==1.37.0
+streamlit_echarts==0.4.0
+scikit-learn==1.4.2
